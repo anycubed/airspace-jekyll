@@ -16,8 +16,10 @@ keep_files:
 # Site settings
 title: Anycubed
 subtitle: "Anything, Anywhere at Anytime"
+#url: "localhost:4000/" 
 url: "https://anycubed.github.io" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
+#baseurl: "/_site"
 baseurl: "/"
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
